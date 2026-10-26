@@ -18,7 +18,7 @@
     <itunes:category text="Music"><itunes:category text="Music History"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 25 Oct 2026 22:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:09:46 +0000</lastBuildDate>
     <item>
       <title>シティポップはなぜ韓国が先？Night Tempo「プラスティック・ラヴ」リミックスと消えたB面｜ユビン・JYP・2016年</title>
       <description>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
@@ -356,6 +356,7 @@ YouTube(動画版): https://youtu.be/TCGMjQnuSvc</itunes:summary>
       <pubDate>Sat, 24 Oct 2026 22:00:30 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa11_pacific_breeze.mp3" length="7282251" type="audio/mpeg"/>
       <itunes:duration>10:08</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa11_pacific_breeze.jpg?v=1792973372"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
