@@ -18,7 +18,7 @@
     <itunes:category text="Music"><itunes:category text="Music History"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 26 Oct 2026 00:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:15:13 +0000</lastBuildDate>
     <item>
       <title>シティポップはなぜ韓国が先？Night Tempo「プラスティック・ラヴ」リミックスと消えたB面｜ユビン・JYP・2016年</title>
       <description>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
@@ -186,6 +186,7 @@ YouTube(動画版): https://youtu.be/bZoSkjXJkl0</itunes:summary>
       <pubDate>Sun, 25 Oct 2026 22:00:25 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa12_night_tempo.mp3" length="7793206" type="audio/mpeg"/>
       <itunes:duration>10:51</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa12_night_tempo.jpg?v=1792973698"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -356,7 +357,7 @@ YouTube(動画版): https://youtu.be/TCGMjQnuSvc</itunes:summary>
       <pubDate>Sat, 24 Oct 2026 22:00:30 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa11_pacific_breeze.mp3" length="7282251" type="audio/mpeg"/>
       <itunes:duration>10:08</itunes:duration>
-      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa11_pacific_breeze.jpg?v=1792973372"/>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa11_pacific_breeze.jpg?v=1792973698"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -537,6 +538,7 @@ YouTube(動画版): https://youtu.be/U5_FQIsgjHw</itunes:summary>
       <pubDate>Fri, 23 Oct 2026 22:00:11 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa10_kanashimi.mp3" length="7206705" type="audio/mpeg"/>
       <itunes:duration>10:02</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa10_kanashimi.jpg?v=1792973697"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -713,6 +715,7 @@ YouTube(動画版): https://youtu.be/COWUSrIwZbM</itunes:summary>
       <pubDate>Thu, 22 Oct 2026 22:00:24 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa09_flapper.mp3" length="6858127" type="audio/mpeg"/>
       <itunes:duration>9:33</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa09_flapper.jpg?v=1792973696"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -835,6 +838,7 @@ YouTube(動画版): https://youtu.be/1x2wYZVNN_g</itunes:summary>
       <pubDate>Wed, 21 Oct 2026 22:00:37 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa08_love_trip.mp3" length="7275355" type="audio/mpeg"/>
       <itunes:duration>10:06</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa08_love_trip.jpg?v=1792973696"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -959,6 +963,7 @@ YouTube(動画版): https://youtu.be/wu40aA0EDZw</itunes:summary>
       <pubDate>Tue, 20 Oct 2026 22:00:25 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa07_sunshower.mp3" length="7867812" type="audio/mpeg"/>
       <itunes:duration>10:56</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa07_sunshower.jpg?v=1792973695"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1089,6 +1094,7 @@ YouTube(動画版): https://youtu.be/47XEcfDjno4</itunes:summary>
       <pubDate>Mon, 19 Oct 2026 22:00:02 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa06_cd_1998.mp3" length="7064390" type="audio/mpeg"/>
       <itunes:duration>9:49</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa06_cd_1998.jpg?v=1792973694"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1217,6 +1223,7 @@ YouTube(動画版): https://youtu.be/47G3rph_WHc</itunes:summary>
       <pubDate>Sun, 18 Oct 2026 22:00:09 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa05_graduation_songs.mp3" length="7307955" type="audio/mpeg"/>
       <itunes:duration>10:09</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa05_graduation_songs.jpg?v=1792973693"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1341,6 +1348,7 @@ YouTube(動画版): https://youtu.be/RGhD5JOADMg</itunes:summary>
       <pubDate>Sat, 17 Oct 2026 22:00:18 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa04_enka.mp3" length="7190404" type="audio/mpeg"/>
       <itunes:duration>9:59</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa04_enka.jpg?v=1792973692"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1469,6 +1477,7 @@ YouTube(動画版): https://youtu.be/-E2uXkoxCrA</itunes:summary>
       <pubDate>Fri, 16 Oct 2026 22:00:30 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa03_kankyo_ongaku.mp3" length="5510522" type="audio/mpeg"/>
       <itunes:duration>7:39</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa03_kankyo_ongaku.jpg?v=1792973692"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1595,6 +1604,7 @@ YouTube(動画版): https://youtu.be/Vxxyg4_p10M</itunes:summary>
       <pubDate>Thu, 15 Oct 2026 22:27:10 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa02_sukiyaki.mp3" length="5386075" type="audio/mpeg"/>
       <itunes:duration>7:28</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa02_sukiyaki.jpg?v=1792973691"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1749,6 +1759,7 @@ YouTube(動画版): https://youtu.be/RZewDnKwE_U</itunes:summary>
       <pubDate>Wed, 14 Oct 2026 23:22:34 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa01_citypop_history.mp3" length="7175358" type="audio/mpeg"/>
       <itunes:duration>9:58</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa01_citypop_history.jpg?v=1792973690"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
