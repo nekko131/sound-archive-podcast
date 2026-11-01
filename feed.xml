@@ -58,7 +58,7 @@
     <itunes:category text="Music"><itunes:category text="Music History"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 01 Nov 2026 02:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:52:56 +0000</lastBuildDate>
     <item>
       <title>ユーロビートはなぜ日本でしか売れなかった？イタリア人が「日本のためだけ」に作った音楽｜SUPER EUROBEAT・パラパラ・頭文字D</title>
       <description>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
@@ -244,6 +244,7 @@ YouTube(動画版): https://youtu.be/-mDHZtv2HHk</itunes:summary>
       <pubDate>Sat, 31 Oct 2026 22:00:33 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa18__mdhztv2hhk.mp3" length="6133699" type="audio/mpeg"/>
       <itunes:duration>8:32</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa18__mdhztv2hhk.jpg?v=1793501562"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -422,6 +423,7 @@ YouTube(動画版): https://youtu.be/M8G2f1otP4Y</itunes:summary>
       <pubDate>Fri, 30 Oct 2026 22:00:18 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa17_m8g2f1otp4y.mp3" length="6710483" type="audio/mpeg"/>
       <itunes:duration>9:20</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa17_m8g2f1otp4y.jpg?v=1793501560"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -604,6 +606,7 @@ YouTube(動画版): https://youtu.be/a_2Z3O5iB5c</itunes:summary>
       <pubDate>Thu, 29 Oct 2026 22:00:36 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa16_a_2z3o5ib5c.mp3" length="7291028" type="audio/mpeg"/>
       <itunes:duration>10:09</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa16_a_2z3o5ib5c.jpg?v=1793501559"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
