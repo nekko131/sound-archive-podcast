@@ -58,7 +58,7 @@
     <itunes:category text="Music"><itunes:category text="Music History"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 16 Nov 2026 02:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:39:22 +0000</lastBuildDate>
     <item>
       <title>完成した11曲は、なぜ店に並ばなかったのか？ シリア・ポール『夢で逢えたら』1977年の26日間</title>
       <description>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
@@ -230,6 +230,7 @@ YouTube(動画版): https://youtu.be/W6xzG16-QZw</itunes:summary>
       <pubDate>Sun, 15 Nov 2026 22:00:31 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa32_w6xzg16_qzw.mp3" length="22488337" type="audio/mpeg"/>
       <itunes:duration>31:14</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa32_w6xzg16_qzw.jpg?v=1794796762"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -402,6 +403,7 @@ YouTube(動画版): https://youtu.be/5GVJ8gDT1hc</itunes:summary>
       <pubDate>Sat, 14 Nov 2026 22:00:14 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa31_5gvj8gdt1hc.mp3" length="17335214" type="audio/mpeg"/>
       <itunes:duration>24:04</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa31_5gvj8gdt1hc.jpg?v=1794796761"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -572,6 +574,7 @@ YouTube(動画版): https://youtu.be/aJrUAMXgTB0</itunes:summary>
       <pubDate>Fri, 13 Nov 2026 22:00:14 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa30_ajruamxgtb0.mp3" length="19220419" type="audio/mpeg"/>
       <itunes:duration>26:41</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa30_ajruamxgtb0.jpg?v=1794796760"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -748,6 +751,7 @@ YouTube(動画版): https://youtu.be/QRxlmYWu-7A</itunes:summary>
       <pubDate>Thu, 12 Nov 2026 22:00:35 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa29_qrxlmywu_7a.mp3" length="24653784" type="audio/mpeg"/>
       <itunes:duration>34:14</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa29_qrxlmywu_7a.jpg?v=1794796759"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -918,6 +922,7 @@ YouTube(動画版): https://youtu.be/BKU-buwRud8</itunes:summary>
       <pubDate>Mon, 09 Nov 2026 22:00:25 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa28_bku_buwrud8.mp3" length="30339492" type="audio/mpeg"/>
       <itunes:duration>42:08</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa28_bku_buwrud8.jpg?v=1794796758"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1120,6 +1125,7 @@ YouTube(動画版): https://youtu.be/c337nVICsp0</itunes:summary>
       <pubDate>Wed, 11 Nov 2026 22:00:19 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa27_c337nvicsp0.mp3" length="38217604" type="audio/mpeg"/>
       <itunes:duration>53:05</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa27_c337nvicsp0.jpg?v=1794796757"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1314,6 +1320,7 @@ YouTube(動画版): https://youtu.be/0su41HUrJ0I</itunes:summary>
       <pubDate>Tue, 10 Nov 2026 22:00:36 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa26_0su41hurj0i.mp3" length="15208324" type="audio/mpeg"/>
       <itunes:duration>21:07</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa26_0su41hurj0i.jpg?v=1794796723"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1482,6 +1489,162 @@ YouTube(動画版): https://youtu.be/gtaQ12JIwyU</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>「ヘッドホンを外しなよ」山下達郎の助言と、89位の名曲「恋のブギ・ウギ・トレイン」47年の物語｜アン・ルイス×吉田美奈子</title>
+      <description>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
+
+アン・ルイスが1979年12月に出した「恋のブギ・ウギ・トレイン」は、作曲・編曲が山下達郎、作詞が吉田美奈子。それでもオリコン最高89位に終わった。ところが2026年10月、山下達郎の37年ぶりのライブ盤『JOY2』で、この曲はDisc2の最後の1曲に入っている。1989年の『JOY』にも入っていた。翌1980年の英語版「BOOGIE WOOGIE LOVE TRAIN」は64位で、日本語版より上だった。アン・ルイスが2004年に書いた本人の解説には、山下達郎から受けた「ヘッドフォンをして歌うからフラットになるんだよ」という助言が残っている。
+
+■ 耳で聴く本も
+※この欄には広告(Amazonアソシエイト)のリンクを含みます。
+・Audible(オーディブル)
+https://www.amazon.co.jp/hz/audible/mlp?tag=soundarchive-22
+Amazonのアソシエイトとして、SOUND ARCHIVEは適格販売により収入を得ています。
+
+■ この動画でわかること（Q&amp;A）
+Q. 「恋のブギ・ウギ・トレイン」を作ったのは？
+A. 作曲・編曲は山下達郎、作詞は吉田美奈子。吉田美奈子と山下達郎はコーラスにも参加。演奏は渡嘉敷祐一（ドラム）、岡沢章（ベース）、松木恒秀（ギター）、清水信之（鍵盤）ら。発売はビクター。
+
+Q. 山下達郎はアン・ルイスに何を教えた？
+A. アン・ルイス本人の2004年のセルフライナーノーツによると、音程がフラットしがちだったアンに「ヘッドフォンをして歌うからフラットになるんだよ。前にチビ・モニターを置いてボリュームを小さくして自分の声を耳から聴くといいよ」と助言した。
+
+Q. 竹内まりやの「リンダ」との関係は？
+A. 1980年3月に桑名正博と結婚したアン・ルイスに、竹内まりやが書いた曲。1980年8月5日にシングルで出た。アン・ルイスによると、オリジナル録音のコーラスは山下達郎が全部重ねている。
+
+■ English summary
+Ann Lewis&#x27;s 1979 disco single &quot;Koi no Boogie Woogie Train&quot; was composed and arranged by Tatsuro Yamashita with lyrics by Minako Yoshida, yet it peaked at only No.89 on the Oricon chart. Its 1980 English version reached No.64. Yamashita kept singing it himself — on his 1989 live album &quot;JOY&quot; and again as the final track of Disc 2 on his 2026 live album &quot;JOY2.&quot;
+
+▼ シリーズ「音楽の歴史」（34本・続けて再生）
+https://www.youtube.com/watch?v=RZewDnKwE_U&amp;list=PLPK4qWtBdujU
+◀ 前の回: 【音楽史】大瀧詠一「夢で逢えたら」は誰のために書かれた？幻のアン・ルイス版から吉田美奈子までの50年
+https://youtu.be/mQC7a1eM-lE
+▶ 次の回: 行き詰まった録音と、1本の電話。アン・ルイス「リンダ」が竹内まりやと山下達郎を結ぶまで｜1980年
+https://youtu.be/gtaQ12JIwyU
+
+▼ 関連する回
+・【音楽史】大瀧詠一「夢で逢えたら」は誰のために書かれた？幻のアン・ルイス版から…
+https://youtu.be/mQC7a1eM-lE
+・山下達郎「SPARKLE」の歌詞、誰が書いた？10曲中8曲を書いた吉田美奈子と…
+https://youtu.be/DJe3hRoUbJw
+・吉田美奈子とは？「夢で逢えたら」を1976年に最初に歌った歌手
+https://youtu.be/COWUSrIwZbM
+
+チャプター
+0:00 89位の曲が、最後の1曲に
+2:05 一つの曲を巡るつながり
+3:47 すでに変わり始めていた
+5:15 新宿ルイードの打ち合わせ
+6:52 ヘッドホンを外した理由
+8:32 演奏した人たち
+10:13 言葉を作る人
+11:41 名曲なのに、89位
+13:08 英語になったブギ・ウギ
+14:27 作曲者が、自分で歌う
+15:52 答え
+17:48 竹内まりやと「リンダ」
+
+主な出典
+- アン・ルイス セルフライナーノーツ（日本コロムビア『me-mySELF-ann-i &quot;refreshed&quot;』特設ページ・2004）: https://columbia.jp/ann/liner.html
+- Real Sound（山下達郎『JOY2』の発表・2026-08-09）: https://realsound.jp/2026/08/post-2486589.html
+- タワーレコード（2026-10-01）: https://tower.jp/article/feature_item/2026/10/01/0702
+- ビクター アン・ルイス特設ページ: https://www.jvcmusic.co.jp/annlewis/greatesthits/
+- otonano: https://otonanoweb.jp/s/magazine/diary/detail/8666
+- Wikipedia「恋のブギ・ウギ・トレイン」「BOOGIE WOOGIE LOVE TRAIN」「アン・ルイス」「JOY (山下達郎のアルバム)」「SPACY」「FLAPPER (吉田美奈子のアルバム)」「リンダ (アン・ルイスの曲)」「桑名正博」
+
+▼写真（Wikimedia Commons・CC0／パブリックドメイン）
+- panayota・CC0 https://commons.wikimedia.org/?curid=61310846
+- David Whelan・CC0 https://commons.wikimedia.org/?curid=58022478
+
+この動画について
+- ナレーションはAIで生成した（Gemini TTS）。絵はAIで生成したオリジナルのイラストで、実在の人物の顔・ジャケット・ロゴは描いていない。一部に Wikimedia Commons の CC0 の写真を使っている。
+- 曲そのもの（原曲の音源）は流していない。
+- 発売日は資料によって1979年12月20日と12月25日に分かれるため「1979年12月」とした。裏付けが取りきれなかった話は「伝えられています」「とされています」の形で紹介している。
+- BGMはこのチャンネルのオリジナル曲で、当時の曲ではない。
+
+#恋のブギウギトレイン #アン・ルイス #山下達郎 #吉田美奈子 #音楽史
+
+YouTube(動画版): https://youtu.be/FGcbYKBswlg</description>
+      <itunes:summary>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
+
+アン・ルイスが1979年12月に出した「恋のブギ・ウギ・トレイン」は、作曲・編曲が山下達郎、作詞が吉田美奈子。それでもオリコン最高89位に終わった。ところが2026年10月、山下達郎の37年ぶりのライブ盤『JOY2』で、この曲はDisc2の最後の1曲に入っている。1989年の『JOY』にも入っていた。翌1980年の英語版「BOOGIE WOOGIE LOVE TRAIN」は64位で、日本語版より上だった。アン・ルイスが2004年に書いた本人の解説には、山下達郎から受けた「ヘッドフォンをして歌うからフラットになるんだよ」という助言が残っている。
+
+■ 耳で聴く本も
+※この欄には広告(Amazonアソシエイト)のリンクを含みます。
+・Audible(オーディブル)
+https://www.amazon.co.jp/hz/audible/mlp?tag=soundarchive-22
+Amazonのアソシエイトとして、SOUND ARCHIVEは適格販売により収入を得ています。
+
+■ この動画でわかること（Q&amp;A）
+Q. 「恋のブギ・ウギ・トレイン」を作ったのは？
+A. 作曲・編曲は山下達郎、作詞は吉田美奈子。吉田美奈子と山下達郎はコーラスにも参加。演奏は渡嘉敷祐一（ドラム）、岡沢章（ベース）、松木恒秀（ギター）、清水信之（鍵盤）ら。発売はビクター。
+
+Q. 山下達郎はアン・ルイスに何を教えた？
+A. アン・ルイス本人の2004年のセルフライナーノーツによると、音程がフラットしがちだったアンに「ヘッドフォンをして歌うからフラットになるんだよ。前にチビ・モニターを置いてボリュームを小さくして自分の声を耳から聴くといいよ」と助言した。
+
+Q. 竹内まりやの「リンダ」との関係は？
+A. 1980年3月に桑名正博と結婚したアン・ルイスに、竹内まりやが書いた曲。1980年8月5日にシングルで出た。アン・ルイスによると、オリジナル録音のコーラスは山下達郎が全部重ねている。
+
+■ English summary
+Ann Lewis&#x27;s 1979 disco single &quot;Koi no Boogie Woogie Train&quot; was composed and arranged by Tatsuro Yamashita with lyrics by Minako Yoshida, yet it peaked at only No.89 on the Oricon chart. Its 1980 English version reached No.64. Yamashita kept singing it himself — on his 1989 live album &quot;JOY&quot; and again as the final track of Disc 2 on his 2026 live album &quot;JOY2.&quot;
+
+▼ シリーズ「音楽の歴史」（34本・続けて再生）
+https://www.youtube.com/watch?v=RZewDnKwE_U&amp;list=PLPK4qWtBdujU
+◀ 前の回: 【音楽史】大瀧詠一「夢で逢えたら」は誰のために書かれた？幻のアン・ルイス版から吉田美奈子までの50年
+https://youtu.be/mQC7a1eM-lE
+▶ 次の回: 行き詰まった録音と、1本の電話。アン・ルイス「リンダ」が竹内まりやと山下達郎を結ぶまで｜1980年
+https://youtu.be/gtaQ12JIwyU
+
+▼ 関連する回
+・【音楽史】大瀧詠一「夢で逢えたら」は誰のために書かれた？幻のアン・ルイス版から…
+https://youtu.be/mQC7a1eM-lE
+・山下達郎「SPARKLE」の歌詞、誰が書いた？10曲中8曲を書いた吉田美奈子と…
+https://youtu.be/DJe3hRoUbJw
+・吉田美奈子とは？「夢で逢えたら」を1976年に最初に歌った歌手
+https://youtu.be/COWUSrIwZbM
+
+チャプター
+0:00 89位の曲が、最後の1曲に
+2:05 一つの曲を巡るつながり
+3:47 すでに変わり始めていた
+5:15 新宿ルイードの打ち合わせ
+6:52 ヘッドホンを外した理由
+8:32 演奏した人たち
+10:13 言葉を作る人
+11:41 名曲なのに、89位
+13:08 英語になったブギ・ウギ
+14:27 作曲者が、自分で歌う
+15:52 答え
+17:48 竹内まりやと「リンダ」
+
+主な出典
+- アン・ルイス セルフライナーノーツ（日本コロムビア『me-mySELF-ann-i &quot;refreshed&quot;』特設ページ・2004）: https://columbia.jp/ann/liner.html
+- Real Sound（山下達郎『JOY2』の発表・2026-08-09）: https://realsound.jp/2026/08/post-2486589.html
+- タワーレコード（2026-10-01）: https://tower.jp/article/feature_item/2026/10/01/0702
+- ビクター アン・ルイス特設ページ: https://www.jvcmusic.co.jp/annlewis/greatesthits/
+- otonano: https://otonanoweb.jp/s/magazine/diary/detail/8666
+- Wikipedia「恋のブギ・ウギ・トレイン」「BOOGIE WOOGIE LOVE TRAIN」「アン・ルイス」「JOY (山下達郎のアルバム)」「SPACY」「FLAPPER (吉田美奈子のアルバム)」「リンダ (アン・ルイスの曲)」「桑名正博」
+
+▼写真（Wikimedia Commons・CC0／パブリックドメイン）
+- panayota・CC0 https://commons.wikimedia.org/?curid=61310846
+- David Whelan・CC0 https://commons.wikimedia.org/?curid=58022478
+
+この動画について
+- ナレーションはAIで生成した（Gemini TTS）。絵はAIで生成したオリジナルのイラストで、実在の人物の顔・ジャケット・ロゴは描いていない。一部に Wikimedia Commons の CC0 の写真を使っている。
+- 曲そのもの（原曲の音源）は流していない。
+- 発売日は資料によって1979年12月20日と12月25日に分かれるため「1979年12月」とした。裏付けが取りきれなかった話は「伝えられています」「とされています」の形で紹介している。
+- BGMはこのチャンネルのオリジナル曲で、当時の曲ではない。
+
+#恋のブギウギトレイン #アン・ルイス #山下達郎 #吉田美奈子 #音楽史
+
+YouTube(動画版): https://youtu.be/FGcbYKBswlg</itunes:summary>
+      <link>https://youtu.be/FGcbYKBswlg</link>
+      <guid isPermaLink="false">yt-FGcbYKBswlg</guid>
+      <pubDate>Sat, 07 Nov 2026 22:00:15 +0000</pubDate>
+      <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa33_fgcbykbswlg.mp3" length="14570414" type="audio/mpeg"/>
+      <itunes:duration>20:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>【音楽史】大瀧詠一「夢で逢えたら」は誰のために書かれた？幻のアン・ルイス版から吉田美奈子までの50年</title>
       <description>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
 
@@ -1646,6 +1809,7 @@ YouTube(動画版): https://youtu.be/mQC7a1eM-lE</itunes:summary>
       <pubDate>Fri, 06 Nov 2026 22:00:32 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa24_mqc7a1em_le.mp3" length="12035701" type="audio/mpeg"/>
       <itunes:duration>16:44</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa24_mqc7a1em_le.jpg?v=1794796738"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -1822,6 +1986,7 @@ YouTube(動画版): https://youtu.be/DJe3hRoUbJw</itunes:summary>
       <pubDate>Thu, 05 Nov 2026 22:00:15 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa23_dje3hroubjw.mp3" length="14481389" type="audio/mpeg"/>
       <itunes:duration>20:06</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa23_dje3hroubjw.jpg?v=1794796737"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -2016,6 +2181,7 @@ YouTube(動画版): https://youtu.be/xPPVj3InreM</itunes:summary>
       <pubDate>Wed, 04 Nov 2026 22:00:24 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa22_xppvj3inrem.mp3" length="13796458" type="audio/mpeg"/>
       <itunes:duration>19:09</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa22_xppvj3inrem.jpg?v=1794796736"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -2208,6 +2374,7 @@ YouTube(動画版): https://youtu.be/AcK1_KHRPcg</itunes:summary>
       <pubDate>Tue, 03 Nov 2026 22:00:32 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa21_ack1_khrpcg.mp3" length="13481108" type="audio/mpeg"/>
       <itunes:duration>18:43</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa21_ack1_khrpcg.jpg?v=1794796735"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -2382,6 +2549,7 @@ YouTube(動画版): https://youtu.be/OSIYkt6qc4w</itunes:summary>
       <pubDate>Mon, 02 Nov 2026 22:00:30 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa20_osiykt6qc4w.mp3" length="7114545" type="audio/mpeg"/>
       <itunes:duration>9:52</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa20_osiykt6qc4w.jpg?v=1794796733"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -2548,6 +2716,7 @@ YouTube(動画版): https://youtu.be/VcR1dh982BQ</itunes:summary>
       <pubDate>Sun, 01 Nov 2026 22:00:16 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa19_vcr1dh982bq.mp3" length="6698884" type="audio/mpeg"/>
       <itunes:duration>9:18</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa19_vcr1dh982bq.jpg?v=1794796732"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
