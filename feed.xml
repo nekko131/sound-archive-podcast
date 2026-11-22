@@ -58,7 +58,7 @@
     <itunes:category text="Music"><itunes:category text="Music History"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 21 Nov 2026 22:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:20:07 +0000</lastBuildDate>
     <item>
       <title>吉田美奈子『頬に夜の灯』はなぜこんなに静かなのか？ ファンクの女王と、1曲だけに名前のあるトランペット奏者</title>
       <description>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
@@ -246,6 +246,7 @@ YouTube(動画版): https://youtu.be/3BPSoMQnh24</itunes:summary>
       <pubDate>Sat, 21 Nov 2026 22:00:07 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa39_3bpsomqnh24.mp3" length="19127005" type="audio/mpeg"/>
       <itunes:duration>26:33</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa39_3bpsomqnh24.jpg?v=1795321207"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
