@@ -58,7 +58,7 @@
     <itunes:category text="Music"><itunes:category text="Music History"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 22 Nov 2026 22:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:20:07 +0000</lastBuildDate>
     <item>
       <title>なぜ竹内まりや『REQUEST』は「新曲1曲」でミリオンセラーになった？「駅」と山下達郎の「つまらなそうに歌って」｜1987年</title>
       <description>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
@@ -250,6 +250,7 @@ YouTube(動画版): https://youtu.be/us7s6uWJ414</itunes:summary>
       <pubDate>Sun, 22 Nov 2026 22:00:24 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa40_us7s6uwj414.mp3" length="20558933" type="audio/mpeg"/>
       <itunes:duration>28:33</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa40_us7s6uwj414.jpg?v=1795407607"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
