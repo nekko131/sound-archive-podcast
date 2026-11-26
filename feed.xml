@@ -58,7 +58,7 @@
     <itunes:category text="Music"><itunes:category text="Music History"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 25 Nov 2026 22:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:20:10 +0000</lastBuildDate>
     <item>
       <title>なぜ大瀧詠一は、小林旭『熱き心に』だけは断れなかったのか？｜阿久悠と生んだ1985年の名曲と、88歳の今</title>
       <description>※この回の進行役と聞き手の声は、AI音声(Gemini TTS)で作っています。
@@ -254,6 +254,7 @@ YouTube(動画版): https://youtu.be/_08q31uDeRE</itunes:summary>
       <pubDate>Wed, 25 Nov 2026 22:00:20 +0000</pubDate>
       <enclosure url="https://nekko131.github.io/sound-archive-podcast/episodes/sa43__08q31udere.mp3" length="27697258" type="audio/mpeg"/>
       <itunes:duration>38:28</itunes:duration>
+      <itunes:image href="https://nekko131.github.io/sound-archive-podcast/art/sa43__08q31udere.jpg?v=1795666810"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
